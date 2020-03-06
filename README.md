@@ -10,3 +10,5 @@ Link to project [here](https://www.theodinproject.com/courses/ruby-on-rails/less
 
 * [HeflerDev](https://github.com/HeflerDev)
 * [HeyItsGwen](https://github.com/HeyItsGwen)
+
+<hr>
