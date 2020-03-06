@@ -1,24 +1,12 @@
-# README
+<h1 style="text-align:center;">Microverse re-former</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src='https://miro.medium.com/max/1838/1*k3U6OO-ag6LspRQBmN7ZZg.png'>
 
-Things you may want to cover:
+This project is made to learn the multiple ways to build a form in rails that can send parameters to a controller so that it can build an instance of a model with those parameters.
 
-* Ruby version
+Link to project [here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms).
 
-* System dependencies
+## Made By...
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [HeflerDev](https://github.com/HeflerDev)
+* [HeyItsGwen](https://github.com/HeyItsGwen)
